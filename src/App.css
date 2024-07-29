@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-image: url('/Users/vigneshvars/Documents/Multiplayer-Tic-Tac-Toe-main/src/Assets/Background.jpeg');
+  background-image: url('src/Assets/Background.jpeg');
   background-size: cover; /* Make sure the image covers the entire header */
   background-repeat: no-repeat; /* Prevent the image from repeating */
   min-height: 100vh; /* Make sure the header takes up at least the full height of the viewport */
