@@ -16,7 +16,6 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://codered-vigneshvar.github.io/TicTacToe",
   "scripts": {
   "start": "react-scripts start",
   "build": "CI=false react-scripts build",
